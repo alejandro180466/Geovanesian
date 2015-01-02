@@ -1,0 +1,25 @@
+[24-Feb-2012 22:39:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 22:39:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 98
+[24-Feb-2012 22:40:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 22:40:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/IlistaFactura.php on line 36
+[24-Feb-2012 22:40:29] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[24-Feb-2012 22:40:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 22:49:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 22:59:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 22:59:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 98
+[24-Feb-2012 23:00:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:01:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:01:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 98
+[24-Feb-2012 23:02:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:02:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:04:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:04:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 98
+[24-Feb-2012 23:05:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:07:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[24-Feb-2012 23:07:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 98
+[18-May-2012 21:36:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bondulce/public_html/pentisol/estilos/Estilo_page.php:11) in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 11
+[18-May-2012 21:36:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bondulce/public_html/pentisol/estilos/Estilo_page.php:11) in /home/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 11
+[22-Nov-2012 23:34:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82
+[22-Nov-2012 23:35:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/interface/carrito/IlistaFactura.php on line 36
+[22-Nov-2012 23:35:13] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[22-Nov-2012 23:35:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/interface/carrito/VerCarrito.php on line 82

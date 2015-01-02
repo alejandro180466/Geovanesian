@@ -1,0 +1,7 @@
+[05-Feb-2012 23:52:59] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[12-Feb-2012 10:17:38] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[12-Feb-2012 10:17:38] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[15-Feb-2012 21:22:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[15-Feb-2012 21:22:32] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[25-Nov-2012 00:37:45] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19
+[25-Nov-2012 00:37:45] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/Persistencia.php on line 19

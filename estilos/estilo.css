@@ -1,0 +1,343 @@
+*{
+  font-size:12px;    /*se define el tamano de letra y su 100%*/
+  font-size:100%;
+	}
+a {	
+   color: #040000;          /*ENLACES*/
+   text-decoration: none;
+	}
+body {
+	background-color:#A4A4A4;  /*#FFAA55;   */     /*COLOR DE FONDO */
+	font-family: Arial, Helvetica, sans-serif;	
+	line-height: 2em;	
+	color:#000000 ;/*#FF8C00;  */                                  
+	margin-top: 0.5%;
+	margin-right: 2.5%;     
+	margin-bottom: 0.5%;
+	margin-left: 2.5%;
+	}
+table {
+    border:1;
+	background-color:#F78181;/*#F78181;/*#D24141;/*D21A1A; /*B0C4DE; */
+	font-size:14px; 
+	}
+img {
+	border:none;
+	}	
+
+td, th {	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	line-height: 2em;
+	color: #333333;
+	}
+textarea {
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 0.6em
+	text-align:justify,
+	}
+li {
+   text-align:center;
+
+}	
+ul {	
+	font-family: Arial, Helvetica, sans-serif;	
+	font-size: 1em;	
+	list-style-type:none; /*square;	*/
+	list-style-position:inside;
+	 
+	}
+h2{
+	font-size: 1.5em;
+    text-align:center;
+}
+input:focus{
+	border:2px solid #000;
+	background:#F3F3F3;
+
+}
+
+} 	
+.BulletBackgroundColor {
+	color: #FFFFFF
+	}
+.DataColor {
+	color: #DEDECA
+	}
+.footer { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.167em;
+	font-weight: bold;
+	line-height: 1.83em;
+	color: #333333;
+	background-color: #CCCCCC
+	}
+.FormBackgroundColor {
+	color: #CCCCCC
+	}
+.ImageTitleColor {
+	color: #CCCCCC
+	}
+.LabelColor {
+	color: #CCCCCC
+	}
+.ListColorEven {
+	color: #CCCCCC
+	}
+.ListFooterColor {
+	color: #333333
+	}
+.ListHeaderColor {
+	color: #333333
+	}
+.ListColorOdd {
+	color: #DEDECA
+	}
+.ListTitleColor {
+	color: #CCCCCC
+	}
+.NavigationBackgroundColor {
+	color: #666666
+	}
+.NavigationColor {
+	color: #CCCCCC
+	}
+.NewsDataColor {
+	color: #DEDECA
+	}
+.StoryTitle {
+	color: #000000;
+	font-weight: bold
+	}
+.StoryContentColor {
+	color: #000000
+	}
+.TitleColor {
+	color: #000000
+	}
+.transparencia {
+   opacity: .25;
+   -moz-opacity: .25;
+   filter:alpha(opacity=25);
+   float: left;
+} 	
+a:hover {	
+	text-decoration: underline;
+	font-size:1.0em;
+	font:"Microsoft Sans Serif";
+	}
+
+tr.ListHeaderColor th {
+	text-align: left;
+	}.small {
+	font-size: 85%;
+	}
+
+/***********MENU DERECHO *****************/	
+#menuderecho {
+	position:relative;
+	float:right; 
+	display: block !important;
+	right:0.5%;
+	top:1%;
+	bottom:0.5%;
+	
+	}
+#menuderecho table {
+	background-color:#A4A4A4;
+	text-align:right;
+	width:10%;
+  
+   	font-size:56%;
+	}
+#menuderecho tr {
+	text-align:center;
+	
+	}
+#menuderecho td {
+	text-align:left;
+	border: 2px solid #000000;
+   -moz-border-radius: 7px;
+   -webkit-border-radius: 7px;
+   padding:1px;
+   
+	}
+
+/***********MENU izquierdo *****************/	
+#menuizquierdo {
+    position:absolute;/*relative;*/
+	float:left;
+	width:13%;
+	display: block !important;
+	left:0.5%;
+	top:3%;
+	}
+	
+#menuizquierdotable {
+    text-align:left;
+	width:10%;     
+	font-size:56%;
+	overflow:visible;
+	z-index:9;
+	}
+#menuizquierdo tr {
+	text-align:center;
+
+	}
+#menuizquierdo td {
+	text-align:left;
+	}
+/************ MENU OPCIONES ***************/
+#menumov {
+    width:50%;
+	position:relative;
+	float:rigth;
+	left:18%;
+	text-align:center;
+	font-size:80%;
+	}
+#menumov.h2{
+	font-size:1.5em;
+	text-align:center;
+    }	
+	
+/*********************************** cabecera ************/
+#cabecera {
+	position:relative;
+	float:right;
+	top:1%;
+	left:0%;
+	width:15%;
+	height:14%;
+	}
+/*********** tabla buscador *************/	
+#buscador {
+	position:absolute;
+	background-position:center;
+	left:18%;
+	width:50%;
+	top:10%;
+	bottom:16%;
+	}
+#buscador table{
+	width:100%;
+	font-size:80%;
+    padding:3%;
+    border:0;	
+	border-color:#FF9933;
+	}
+/*********** tabla INGRESO *************/	
+#formulario {
+	position:absolute;
+	background-position:center;
+	left:18%;
+	width:50%;
+	top:10%;
+	bottom:16%;
+	}
+#formulario table{
+	text-align:left;
+	width:98%;
+	font-size:90%;
+    padding:3%;
+    border:0;	
+	border-color:#FF9933;
+	}
+/***************FACTURA VISTA****************************/	
+#factura {
+	position:absolute;
+	background-position:center;
+	left:0.4%;
+	right:0.5%;
+	top:7%;
+	bottom:16%;
+	z-index:10;
+	}
+#factura table{
+	text-align:center;
+	width:100%;
+	font-size:90%;
+    padding:1%;
+    border:0;	
+	border-color:#FF9933;
+	}	
+	/********************************* contenido central ************/
+#primeraizquierda {
+	position:absolute;
+	top:20%;
+	left:18%;
+	width:54%;
+	height:30%;
+	/*border:double;
+	border-color:#FF8040;*/
+	font-size:100%;
+	line-height:150%;
+	text-align:left;
+			
+	}
+
+#segundaizquierda {
+	position:absolute;
+	top:50%;
+	left:18%;
+	width:54%;
+	height:30%;
+	/*border:double;
+	border-color:#FF8040;*/
+	font-size:100%;
+	line-height:150%;
+	text-align:left;
+			
+	}	
+
+
+#alertas {
+	position:absolute;
+	top:80%;
+	left:18%;
+	width:54%;
+	height:10%;
+	font-size:100%;
+	line-height:150%;
+	text-align:left;
+	
+	}
+/***************************** pie ******************/
+#pie {
+	position:absolute;
+	left:3%;
+	right:3%;
+	bottom:1%;
+	width:94%;
+
+	text-align:right;
+	font-size:xx-small;
+}
+/************* tabla buscador ************/
+#tablabuscador table{
+	width:30%;
+
+}
+/************* resultado de buscquedas ********/
+#tablaresultado{
+	position:absolute;
+	float:center;
+	left:18%;
+	margin-right:auto;
+	z-index:8;
+	width:auto;
+	text-align:center;
+}
+
+/************* paginador ***************/
+#paginador{
+	position:relative;
+	float:center;
+	width:100%; 
+	font-size:110%;
+	text-align:center;
+    }
+#paginador b {
+	background-color:#FFFFFF;
+	width:auto; 
+}

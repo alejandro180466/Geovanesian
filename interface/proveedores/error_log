@@ -1,0 +1,2 @@
+[06-Nov-2012 09:32:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bondulce/public_html/pentisol/estilos/Estilo_page.php:11) in /home2/bondulce/public_html/pentisol/interface/proveedores/ProvIndex.php on line 6
+[25-Nov-2012 22:01:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bondulce/public_html/pentisol/estilos/Estilo_page.php:14) in /home2/bondulce/public_html/pentisol/interface/proveedores/ProvIndex.php on line 6

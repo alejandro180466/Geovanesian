@@ -1,0 +1,6 @@
+[18-Oct-2012 15:54:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/clientes/SeekPag.php on line 53
+[18-Oct-2012 15:54:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/clientes/SeekPag.php on line 53
+[19-Oct-2012 15:20:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/clientes/SeekPag.php on line 53
+[19-Oct-2012 15:20:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/clientes/SeekPag.php on line 53
+[19-Oct-2012 15:56:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/clientes/SeekPag.php on line 53
+[25-Oct-2012 10:51:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home2/bondulce/public_html/pentisol/dominio/clientes/SeekPag.php on line 53

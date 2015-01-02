@@ -1,0 +1,1 @@
+[19-Oct-2012 16:04:41] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/bondulce/public_html/pentisol/estilos/Estilo_page.php:11) in /home2/bondulce/public_html/pentisol/interface/documentos/DocumentoIndex.php on line 7
