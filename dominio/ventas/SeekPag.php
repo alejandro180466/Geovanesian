@@ -3,7 +3,7 @@ include("../../estilos/Estilo_page.php");
 include("../../dominio/Persistencia.php");
 include("../../dominio/PaginadorClass.php");
 $sql=$_SESSION['ses_sql'];
-$criterio=$_SESSION['ses_criterio'];
+$criterio=$_SESSION['ses_criterio']; //probando git
 ?>
 <html>
  <head>
